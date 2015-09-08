@@ -1,0 +1,7 @@
+name: DayNightVoting
+main: net.aruneko.daynightvoting.DayNightVoting
+version: 1.0
+commands:
+  dnv:
+    description: This is a voting plugin to change time or weather.
+    usage: /dnv [day|night|sun|rain|yes|no]
